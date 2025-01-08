@@ -1,3 +1,15 @@
+<p align="center">
+<img width="60%" src="./certificate.PNG">
+</p>
+
+> **Note**
+> These are all the notes I took while following the INE course for eJPT certification, I strongly think everything you need to pass the exam is in this 'cheatsheet'.
+
+Notes by [@!abdu11ah](https://iabdullah.vercel.app/profile), exam passed with 91% score.
+
+Info about ICCA certification [here](https://security.ine.com/certifications/ejpt-certification/).  
+Also read my [blog post](https://iabdullah.vercel.app/posts/ICCA-Exam-Review) about eJPT certification.
+
 # eJPT Cheat Sheet
 
 #### Find IP address of a website:

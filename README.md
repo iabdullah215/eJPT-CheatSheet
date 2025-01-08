@@ -1,5 +1,5 @@
 <p align="center">
-<img width="60%" src="./certificate.PNG">
+<img width="60%" src="./certificate.png">
 </p>
 
 > **Note**
